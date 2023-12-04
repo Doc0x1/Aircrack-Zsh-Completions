@@ -1,4 +1,4 @@
-# Aircrack-Completions Suite
+# Aircrack-Zsh-Completions
 
 Intended for use with Zsh and Oh-My-Zsh as a plugin.
 
@@ -11,19 +11,19 @@ Feel free to report any bugs you find.
 To install, clone this repository into your custom plugins directory of Oh-My-Zsh. This is usually located at `~/.oh-my-zsh/custom/plugins/`.
 
 ```bash
-git clone https://github.com/Doc0x1/aircrack-completions-suite.git ~/.oh-my-zsh/custom/plugins/aircrack-completions-suite
+git clone https://github.com/Doc0x1/aircrack-zsh-completions.git ~/.oh-my-zsh/custom/plugins/aircrack-zsh-completions
 ```
 
 Or if you are using a custom Zsh installation directory, you can clone it using the $ZSH environment variable.
 
 ```bash
-git clone https://github.com/Doc0x1/aircrack-completions-suite.git $ZSH/custom/plugins/aircrack-completions-suite
+git clone https://github.com/Doc0x1/aircrack-zsh-completions.git $ZSH/custom/plugins/aircrack-zsh-completions
 ```
 
 Then, add the plugin to your `.zshrc` file.
 
 ```bash
-plugins=(aircrack-completions-suite)
+plugins=(aircrack-zsh-completions)
 ```
 
 ## Usage

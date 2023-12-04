@@ -1,4 +1,4 @@
-########## Plugin: Aircrack-Completions-Suite ##########
+########## Plugin: Aircrack-Zsh-Completions ##########
 # ----------------------------------------#
 ########## Author: Doc0x1 ##########
 ########## Version: 1.0 ##########
