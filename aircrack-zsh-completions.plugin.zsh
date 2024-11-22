@@ -1,11 +1,11 @@
 ########## Plugin: Aircrack-Zsh-Completions ##########
 # ----------------------------------------#
 ########## Author: Doc0x1 ##########
-########## Version: 1.0 ##########
+########## Version: 1.0   ##########
 # ----------------------------------------#
-########## GitHub: github.com/Doc0x1 ##########
-########## Website: hacknex.us ##########
-########## TikTok: @twohackers ##########
+########## GitHub:  github.com/Doc0x1     ##########
+########## Website: hacknexus.io          ##########
+########## Discord: discord.gg/6tSbqvn7K6 ##########
 # ----------------------------------------#
 
 for script in $0:h/*.plugin.zsh; do

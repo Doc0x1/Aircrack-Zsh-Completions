@@ -43,5 +43,5 @@ plugins=(aircrack-zsh-completions)
 - airventriloquist-ng
 
 ## Contributing
-You can contact me for information about contributing at: [Hacknex.us Discord](https://discord.gg/x6bJbPaj9z) [OwlSec Discord](https://discord.gg/owlsec)
+You can contact me for information about contributing at: [Hack Nexus Discord](https://discord.gg/6tSbqvn7K6)
 For major changes or bugs/feature requests, please open an issue first to discuss what you would like changed/added/fixed.
